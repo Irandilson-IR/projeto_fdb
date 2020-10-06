@@ -1,4 +1,4 @@
-# projeto_fdb - Curso Sistemas de Informação - UFC Quixadá
+# PROJETO_FDB - Curso Sistemas de Informação - UFC Quixadá
 RELATÓRIO DE DESENVOLVIMENTO (Projeto Final)
 
 Nome do sistema:
