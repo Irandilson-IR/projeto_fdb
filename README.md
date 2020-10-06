@@ -9,7 +9,7 @@ Realizadores:
 
 Ana Karine Nobre Bezerra
 
-Antônio Irandilson Damesceno 
+Antônio Irandilson Damasceno 
 
 Sobre o sistema:
 O que é, e o que ele faz, qual problemática ele resolve?
